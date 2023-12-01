@@ -3,7 +3,6 @@
     {
       "slug": "products-all",
       "id": "products-all",
-      "allProductTitle": "All Products",
       "allProductImages": [
         {
           "slug": "Vape Pen Boxes",
@@ -189,12 +188,6 @@
           "slug": "",
           "productTitle": "",
           "productImage": ""
-        }
-      ],
-      "productDescription": [
-        {
-          "productDescriptionHeading": "All Our Packaging Products",
-          "productDescriptionText": "Sireprinting.com is your ultimate one-stop choice to acquire any custom box packaging solutions under a single roof. No matter what you fantasize about, our highly proficient team of dedicated professionals will certainly make it possible for you! The packaging and printing industry is like a vast sea with many horizons, and we are here to help you conquer it with full zeal. Whether you are inquiring about CBD boxes or food packaging solutions or your target niche is the cosmetic industry-related packaging, we have got you fully covered for all its aspects. We give you full freedom to choose the box style of your choice and get it tailored concerning size, shade, layout, and finishing as well"
         }
       ]
     }
