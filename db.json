@@ -1,83 +1,9 @@
 {
   "data": [
     {
-
+      "slug": "products-all",
+      "id": "products-all",
       "allProductImages": [
-        {
-          "slug": "Vape Pen Boxes",
-          "productTitle": "Vape Pen Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627836476Vape-Pen-Boxes-SirePrinting%2001.png"
-        },
-        {
-          "slug": "bath-bomb-boxes",
-          "productTitle": "Bath Bomb Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632874083Bath%20Bomb%20Boxes%20Sire%20Printing%2001.png"
-        },
-        {
-          "slug": "candle-boxes",
-          "productTitle": "Candle Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632957661Candle%20Boxes%20Sire%20Printing.png"
-        },
-        {
-          "slug": "candy-boxes",
-          "productTitle": "Candy Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632931919Candy-Boxes%20Sire%20Printing%2001.png"
-        },
-        {
-          "slug": "cell-phone-boxes",
-          "productTitle": "Cell Phone Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632928784Cell%20Phone%20Boxes%20Sire%20Printing%2001.png"
-        },
-        {
-          "slug": "mug-boxes",
-          "productTitle": "Mug Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632957575Mug%20Boxes%20Sire%20Printing%2001.png"
-        },
-        {
-          "slug": "Luxury Soap Boxes",
-          "productTitle": "Luxury Soap Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1628196728Luxury%20Soap%20Boxes%20SirePrinting%2001.png"
-        },
-        {
-          "slug": "soap-gift-boxes",
-          "productTitle": "Soap Gift Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1628206006Soap-Gift-Boxes-SirePrinting%2001.png"
-        },
-        {
-          "slug": "collapsible-rigid-boxes",
-          "productTitle": "Collapsible Rigid Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632938297Collapsible%20Rigid%20Boxes%20Sire%20Printing%2001.png"
-        },
-        {
-          "slug": "luxury-sleeve-boxes",
-          "productTitle": "Luxury Sleeve Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632955051Luxury-Sleeve-Boxes-Sire%20Printing%2001.png"
-        },
-        {
-          "slug": "wallet-rigid-boxes",
-          "productTitle": "Wallet Rigid Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632959685Wallet-Rigid-Boxes-Sire%20Printing%2001.png"
-        },
-        {
-          "slug": "jewelry-boxes",
-          "productTitle": "Jewelry Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632953890Jewelry-Boxes-Sire%20Printing%2001.png"
-        },
-        {
-          "slug": "clear-stickers",
-          "productTitle": "Clear Stickers",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632937304Clear%20Stickers%20SirePrinting%2001.png"
-        },
-        {
-          "slug": "custom-vinyl-stickers",
-          "productTitle": "Custom Vinyl Stickers",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632943546Custom%20Vinyl%20Stickers%20Sire%20Printing%2001.png"
-        },
-        {
-          "slug": "die-cut-stickers",
-          "productTitle": "Die Cut Stickers",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1666569720Die-Cut-Stickers-Sire-Printing06.png"
-        },
         {
           "slug": "double-sided-stickers",
           "productTitle": "Double Sided Stickers",
@@ -87,6 +13,81 @@
           "slug": "anti-aging-cream-boxes",
           "productTitle": "Anti Aging Cream Boxes",
           "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632873549Anti%20Aging%20Cream%20Boxes%20Sire%20Printing%2001.png"
+        },
+        {
+          "slug": "beard-oil-boxes",
+          "productTitle": "Beard Oil Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632874425Beard%20Oil%20Boxes%20Sire%20Printing%2001.png"
+        },
+        {
+          "slug": "beauty-face-mask-boxes",
+          "productTitle": "Beauty Face Mask Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1666574001beauty-mask-boxes-sire-printing-01.png"
+        },
+        {
+          "slug": "bronzer-boxes",
+          "productTitle": "Bronzer Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632874791Bronzer-Boxes-Sire-Printing%2001.png"
+        },
+        {
+          "slug": "Concealer Boxes",
+          "productTitle": "Concealer Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632938816Concealer%20Boxes%20Sire%20Printing%2001.png"
+        },
+        {
+          "slug": "cosmetic-window-boxes",
+          "productTitle": "Cosmetic Window Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632941077Cosmetic%20Window%20%20Boxes%20Sire%20Printing%2001.png"
+        },
+        {
+          "slug": "cream-boxes",
+          "productTitle": "Cream Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632941243Cream%20Boxes%20Sire%20Printing%2001.png"
+        },
+        {
+          "slug": "custom-cosmetic-boxes",
+          "productTitle": "Custom Cosmetic Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632939315Custom-Cosmetic-Boxes-04.png"
+        },
+        {
+          "slug": "essential-oil-boxes",
+          "productTitle": "Essential Oil Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632950451Essential-Oil-Boxes-01.png"
+        },
+        {
+          "slug": "eye-serum-boxes",
+          "productTitle": "Eye Serum Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632951392Eye-Serum-Boxes-03.png"
+        },
+        {
+          "slug": "eyebrow-pencil-boxes",
+          "productTitle": "Eyebrow Pencil Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632950613eye-brow-pencil-boxes-04.png"
+        },
+        {
+          "slug": "eyelash-boxes",
+          "productTitle": "Eyelash Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632950784EyeLash%20Boxes%20Sire%20Printing%2001.png"
+        },
+        {
+          "slug": "eyeliner-boxes",
+          "productTitle": "Eyeliner Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632951291Eyeliner-Boxes-05.png"
+        },
+        {
+          "slug": "eyeshadow-boxes",
+          "productTitle": "Eyeshadow Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632951542Eyeshadow-Boxes-Sire%20Printing%2001.png"
+        },
+        {
+          "slug": "face-serum-boxes",
+          "productTitle": "Face Serum Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632951680Face-Serum-Boxes-Sire%20Printing%2001.png"
+        },
+        {
+          "slug": "hair-extension-boxes",
+          "productTitle": "Hair Extension Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632953042Hair%20Extension%20Boxes%20Sire%20Printing%2001.png"
         },
         {
           "slug": "",
